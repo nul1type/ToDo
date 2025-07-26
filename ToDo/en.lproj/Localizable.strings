@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  ToDo
+
+  Created by Анатолий Александрович on 26.07.2025.
+  
+*/
+
+"title" = "Tasks";
+"detail_title" = "Title";
+"search_label" = "Searching tasks...";
+"no_tasks" = "No tasks";
+"edit" = "Edit";
+"share" = "Share";
+"delete" = "Delete";
+"task_single_title" = "task";
+"task_plural_title" = "tasks";
+"tssks_title_2" = "tasks";
+"error" = "Error";
+"error_text" = "Failed to load data:";
+"detail_title_placeholder" = "Enter a title";
+"detail_description_placeholder" = "Enter a description...";
